@@ -1,0 +1,13 @@
+{
+  "id": "keval.samples",
+  "version": "1.0.2",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "Sample smoke tests for public demo apps (web, mobile, desktop) with the skills, tools, profiles, fixtures and KB files they use, plus the demos' published credentials.",
+  "releaseNotes": "Beta: sample refresh.",
+  "publishedAt": "2026-10-05T07:25:02.660Z",
+  "packageUrl": "https://raw.githubusercontent.com/duonghaijoe/aivision-plugins/main/keval-plugins/releases/keval.samples/1.0.2/files.json",
+  "sha256": "3e6295936f2b0a272b5800ba34336f08bfaf1a908a56c7acd86bbf6a17716f0c",
+  "kid": "dev",
+  "signature": "/IkgpmAh2YfV4NlYkbQlbWWKxDR497zv08+tQyAjzq2bSTAQYDv8PNFJkeoPDHt9qTJTht4Z5j+3ppN4nnufCw=="
+}

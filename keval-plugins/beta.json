@@ -1,0 +1,14 @@
+{
+  "channel": "beta",
+  "generatedAt": "2026-10-05T07:25:02.662Z",
+  "plugins": {
+    "keval.samples": {
+      "version": "1.0.2",
+      "manifestUrl": "https://raw.githubusercontent.com/duonghaijoe/aivision-plugins/main/keval-plugins/releases/keval.samples/1.0.2/manifest.json",
+      "sha256": "deb484641a45687ed592d0fb51f61d17713219c432bb847d16743a1081900657",
+      "minimumEngine": "1.0.0"
+    }
+  },
+  "kid": "dev",
+  "signature": "Z8nvxUIXU38fFpT/Kmggl1voEiRKnZ+P4naTzwP57bVwXbioEfXu22uQgtuYVSn6ec1BT1e9IBGAFeYG7eiRCg=="
+}
