@@ -1,0 +1,26 @@
+{
+  "channel": "stable",
+  "generatedAt": "2026-10-05T07:24:30.014Z",
+  "plugins": {
+    "katalon.keval-core": {
+      "version": "1.0.1",
+      "manifestUrl": "https://raw.githubusercontent.com/duonghaijoe/aivision-plugins/main/keval-plugins/releases/katalon.keval-core/1.0.1/manifest.json",
+      "sha256": "ff5360d4decb8bcda88cdd4293cb77d04f6a6fbf81c85326e7b91942d75abb3d",
+      "minimumEngine": "1.0.0"
+    },
+    "katalon.docs-core": {
+      "version": "1.0.1",
+      "manifestUrl": "https://raw.githubusercontent.com/duonghaijoe/aivision-plugins/main/keval-plugins/releases/katalon.docs-core/1.0.1/manifest.json",
+      "sha256": "3188623858e189cb0ea91436e1dc752823b0f6f5fb32a7525c0b7d40b54aa7da",
+      "minimumEngine": "1.0.0"
+    },
+    "keval.samples": {
+      "version": "1.0.1",
+      "manifestUrl": "https://raw.githubusercontent.com/duonghaijoe/aivision-plugins/main/keval-plugins/releases/keval.samples/1.0.1/manifest.json",
+      "sha256": "1aed99173722f350c3161ac9a023064810f2c1f0fef74ea077f10669d3a4c847",
+      "minimumEngine": "1.0.0"
+    }
+  },
+  "kid": "dev",
+  "signature": "T8h4NJG3EABiAsoeNSGUCdC3vzw+ndDWOojDFDdojgCYlgII5opSZasVpT7tELXmtP7yai+zRniFu7JdPRz3Aw=="
+}
